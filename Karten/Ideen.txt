@@ -18,7 +18,7 @@ X/X grüne Baumhirte Kreatur mit Reichweite (Keyas Pflanze)
 Emblem keine Handkarten (Keyas Wald)
 1/1 weiße Mensch Kreatur (Happys Yeti)
 1/1 weiße Mensch Kreatur (Junas Königssoldaten)
-1/1 schwarzer Assassinen Kreatur (Balthasars Dämon)
+1/1 schwarzer Assassinen Kreatur mit Deathtouch (Balthasars Dämon)
 1/1 schwarze Schnecke-Kreatur (Athemus Nachtmar)
 1/1 grüne Saproling Kreatur (Ichnes Pflanze)
 1/1 rote Goblin Kreatur (Scorchs Stammesmitglied)
@@ -26,4 +26,17 @@ Emblem keine Handkarten (Keyas Wald)
 Kopie Token (Gastauftritt - n random Dude, der fragt was ein W20 sein soll)
 3/3 grüne Affen Kreatur
 Speise (Blaubeere) 2 opfere diesen Spielstein: Du erhältst 3 Lebenspunkte.
-Leerenmarke (
+Slime Marke (Athemus - Alptraum Krankheit)
+Void Marke (LEEREr Sykr Becher)
+Monarch (Bartholomäus)
+
+Länder tauschen:
+3 Wälder: 076-078 raus
+1 Ebene: 066 raus
+1 Sumpf: 071 raus
+Rein:
+Windswept Heath
+Wooded Foothills
+Flooded Strand
+Misty Rainforest
+Bloodstained Mire
